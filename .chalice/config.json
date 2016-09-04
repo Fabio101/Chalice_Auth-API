@@ -1,0 +1,5 @@
+{
+  "lambda_arn": "arn:aws:lambda:eu-west-1:114160153861:function:api_auth", 
+  "app_name": "api_auth", 
+  "stage": "dev"
+}
